@@ -91,14 +91,22 @@ h1, h2 {
     padding: 20px 0;
 }
 
+#why-us h3 {
+    font-size: 175%;
+}
+
 #left-why {
     width: 33%;
     float: left;
+    text-align: left;
+    margin-left: 20px;
 }
 
 #right-why {
     width: 33%;
     float: right;
+    text-align: right;
+    margin-right: 20px;
 }
 
 #center-why-img {
