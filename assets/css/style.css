@@ -85,6 +85,12 @@ h1, h2 {
     height: 600px;
 }
 
+#us-heading {
+    text-align: center;
+    font-size: 250%;
+    padding: 20px 0;
+}
+
 #left-why {
     width: 33%;
     float: left;
