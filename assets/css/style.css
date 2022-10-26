@@ -26,3 +26,9 @@ header {
     float: left;
     margin: 20px;
 }
+
+#menu {
+    float: right;
+    letter-spacing: 3px;
+    font-size: 125%;
+}
