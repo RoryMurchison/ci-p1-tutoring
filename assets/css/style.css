@@ -62,3 +62,13 @@ h1, h2 {
     width: 100%;
     background: url('../images/hero-image.jpg') no-repeat center center;
 }
+
+#cover-text {
+    width: 450px;
+    height: 250px;
+    background-color: rgba(70, 70, 70, 0.7);
+   
+    position: absolute;
+    right: 75px;
+    bottom: 25px;
+}
