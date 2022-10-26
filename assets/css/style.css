@@ -65,10 +65,18 @@ h1, h2 {
 
 #cover-text {
     width: 450px;
-    height: 250px;
+    height: 200px;
     background-color: rgba(70, 70, 70, 0.7);
    
     position: absolute;
     right: 75px;
     bottom: 25px;
+
+    font-size: 150%;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#cover-text h2, #cover-text {
+    color: #fff;
 }
