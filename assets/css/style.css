@@ -80,3 +80,22 @@ h1, h2 {
 #cover-text h2, #cover-text {
     color: #fff;
 }
+
+#why-us {
+    height: 600px;
+}
+
+#left-why {
+    width: 33%;
+    float: left;
+}
+
+#right-why {
+    width: 33%;
+    float: right;
+}
+
+#center-why-img {
+    width: 33%;
+    margin: 0 auto;
+}
