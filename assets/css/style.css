@@ -91,7 +91,7 @@ h1, h2 {
     padding: 20px 0;
 }
 
-#why-us h3 {
+.left-why-heading, .right-why-heading {
     font-size: 175%;
 }
 
