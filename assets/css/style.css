@@ -8,27 +8,44 @@
 
 body {
     font-family: Work sans, sans-serif;
+    color: rgb(70, 70, 70);
 }
 
 h1, h2 {
     font-family: Merriweather, sans-serif;
 }
 
-header {
-    height: 300px
-    width: 100%
-}
-
 #logo {
     letter-spacing: 3px;
     font-size: 250%;
-    color: rgb(70, 70, 70);
     float: left;
     margin: 20px;
 }
 
 #menu {
-    float: right;
     letter-spacing: 3px;
     font-size: 125%;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+#menu a {
+    color: rgb(70, 70, 70);
+    text-decoration: none;
+}
+
+#logo, #menu {
+    line-height: 50px;
+}
+
+#signup-nav {
+    color: black;
+    font-size: 125%;
+    padding: 10px;
+    border: 1px solid black;
 }
