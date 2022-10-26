@@ -13,3 +13,16 @@ body {
 h1, h2 {
     font-family: Merriweather, sans-serif;
 }
+
+header {
+    height: 300px
+    width: 100%
+}
+
+#logo {
+    letter-spacing: 3px;
+    font-size: 250%;
+    color: rgb(70, 70, 70);
+    float: left;
+    margin: 20px;
+}
