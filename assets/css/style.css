@@ -129,11 +129,22 @@ h1, h2 {
     border-radius: 5%;
 }
 
-#how-it-works {
+#how-it-works-background {
    background-image: url('../images/book-and-paper.webp');
-   height: 600px;
+   height: 300px;
    width: 100%;
    overflow: hidden;
    background-size: cover;
    background-position: center;
+}
+
+#how-it-works-background div {
+    background-color: rgba(70, 70, 70, 0.8);
+    width: 25%;
+    float: left;
+    height: 300px;
+    text-align: center;
+    border: 2px solid #fff;
+    box-sizing: border-box; 
+    color: #fff;
 }
