@@ -128,3 +128,12 @@ h1, h2 {
     height: 100%;
     border-radius: 5%;
 }
+
+#how-it-works {
+   background-image: url('../images/book-and-paper.webp');
+   height: 600px;
+   width: 100%;
+   overflow: hidden;
+   background-size: cover;
+   background-position: center;
+}
