@@ -113,3 +113,17 @@ h1, h2 {
     width: 33%;
     margin: 0 auto;
 }
+
+#why-img-container {
+    width: 400px;
+    height: 450px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+#why-img {
+    background: url('../images/tutor-helping-boy.png') no-repeat center center;
+    height: 100%;
+    border-radius: 5%;
+}
