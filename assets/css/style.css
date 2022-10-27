@@ -129,6 +129,12 @@ h1, h2 {
     border-radius: 5%;
 }
 
+#how-it-works-heading {
+    text-align: center;
+    font-size: 250%;
+    padding: 20px 0;
+}
+
 #how-it-works-background {
    background-image: url('../images/book-and-paper.webp');
    height: 300px;
