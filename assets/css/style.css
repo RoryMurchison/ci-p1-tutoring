@@ -100,6 +100,7 @@ h1, h2 {
     float: left;
     text-align: left;
     margin-left: 20px;
+    margin-top: 75px;   
 }
 
 #right-why {
@@ -107,6 +108,7 @@ h1, h2 {
     float: right;
     text-align: right;
     margin-right: 20px;
+    margin-top: 75px;
 }
 
 #center-why {
@@ -119,7 +121,6 @@ h1, h2 {
     height: 450px;
     margin: 0 auto;
     padding: 20px;
-
 }
 
 #why-img {
