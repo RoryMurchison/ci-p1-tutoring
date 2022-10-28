@@ -153,4 +153,16 @@ h1, h2 {
     border: 2px solid #fff;
     box-sizing: border-box; 
     color: #fff;
+    padding: 30px 5px;
+}
+
+#how-it-works p {
+    font-size: 130%;
+}
+
+#signup-how-it-works {
+    color: #fff;
+    font-size: 150%;
+    padding: 10px;
+    border: 1px solid #fff;
 }
