@@ -266,15 +266,13 @@ form h2 {
         font-size: 200%;
     }
 
-    #menu {
+    #menu li {
         letter-spacing: 0px;
+        margin-right: 5px;
+        font-size: 80%;
+        padding: 25px 5px;
+
 
 
     }
-   
-   
-    form {
-        left: 180px;
-    }
-}
 
