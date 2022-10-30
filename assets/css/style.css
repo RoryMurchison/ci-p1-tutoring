@@ -167,6 +167,22 @@ h1, h2 {
     border: 1px solid #fff;
 }
 
+#form-img {
+    background: url('../images/form-background.webp') no-repeat center center;
+}
+
+form {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 20px;
+    text-align: center;
+    color: rgb(70, 70, 70);
+    font-size: 130%;
+}
+
+form h2 {
+    font-size: 250%;
+}
+
 #contact {
     height: 300px;
     background: url('../images/footer-img.webp') no-repeat center center;
