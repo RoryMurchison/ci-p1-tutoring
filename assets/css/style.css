@@ -193,13 +193,14 @@ form {
     text-align: center;
     color: rgb(70, 70, 70);
     font-size: 150%;
+    box-sizing: border-box;
 
     height: 500px;
-    width: 800px;
+    width: 66%;
 
     position: absolute;
     top: 30px;
-    left: 300px;
+    left: 17%;
 }
 
 form h2 {
@@ -252,5 +253,28 @@ form h2 {
     color: #fff;
     font-size: 200%;
     padding: 10px;
-
 }
+
+/*media queries*/
+
+/*for screens up to 1200px wide*/
+
+@media screen and (max-width:1200px) {
+    #logo {
+        letter-spacing: 2px;
+        margin: 20px 10px;
+        font-size: 200%;
+    }
+
+    #menu {
+        letter-spacing: 0px;
+
+
+    }
+   
+   
+    form {
+        left: 180px;
+    }
+}
+
