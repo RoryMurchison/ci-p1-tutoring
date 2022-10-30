@@ -188,3 +188,14 @@ h1, h2 {
 #contact-info p {
     font-size: 130%;
 }
+
+#socials li {
+    display: inline;
+}
+
+#socials i {
+    color: #fff;
+    font-size: 200%;
+    padding: 10px;
+
+}
