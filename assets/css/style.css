@@ -195,11 +195,10 @@ form {
     font-size: 150%;
     box-sizing: border-box;
 
-    height: 500px;
+    height: 600px;
     width: 66%;
 
     position: absolute;
-    top: 30px;
     left: 17%;
 }
 
