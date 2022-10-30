@@ -194,6 +194,20 @@ form h2 {
     font-size: 250%;
 }
 
+#submit-button {
+    font-size: 150%;
+    border: 2px solid black;
+    padding: 5px 20px;
+    margin-top: 10px;
+    background-color: rgb(70, 70, 70);
+    color: #fff;
+}
+
+#submit-button:hover {
+    background-color: #fff;
+    color: rgb(70, 70, 70);
+}
+
 #contact {
     height: 300px;
     background: url('../images/footer-img.webp') no-repeat center center;
