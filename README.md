@@ -62,3 +62,6 @@ TimesTable Tutoring is a website designed for parents in the south west of Engla
     - At the start of the project, no styling effects were occuring. This bug was remedied by fixing a spelling mistake in the css file path. 
 
 ###Validator Testing
+
+    - HTML
+      - 
