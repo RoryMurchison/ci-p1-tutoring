@@ -303,7 +303,7 @@ form h2 {
     }
 
     #why-us {
-        height: 1300px;
+        height: 1250px;
     }
 
     form {
@@ -312,5 +312,26 @@ form h2 {
 
     form h2 {
         font-size: 175%;
+    }
+}
+
+/*for screens up to 750px wide*/
+
+@media screen and (max-width: 750px) {
+    #menu {
+        clear: left;
+        float: left;
+    }
+
+    #logo {
+        margin-bottom: 0px;
+    }
+
+    #menu li {
+        padding: 0px 2px;
+    }
+
+    #cover-text {
+        right: 0px;
     }
 }
