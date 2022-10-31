@@ -6,10 +6,10 @@ TimesTable Tutoring is a website designed for parents in the south west of Engla
 
 ### Existing Features
 
-    - Navigation Bar
+    * Navigation Bar
       
-      - Located in the header of the page, the navigation bar provides links to different key sections of the page allowing for quick and easy access to specific material. 
-      - This helps improve consumer retention as they don't have to trawl through content to find information they are looking for.
+      * Located in the header of the page, the navigation bar provides links to different key sections of the page allowing for quick and easy access to specific material. 
+      * This helps improve consumer retention as they don't have to trawl through content to find information they are looking for.
 
 ![image of header and navigation bar](/assets/images/header-ss.png)
 
