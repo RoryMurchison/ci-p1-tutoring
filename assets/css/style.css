@@ -132,7 +132,7 @@ h1, h2 {
 }
 
 #why-img {
-    background: url('../images/tutor-helping-boy.png') no-repeat center center;
+    background: url('../images/tutor-helping-boy.png') no-repeat center center ;
     height: 100%;
     border-radius: 25%;
 }
