@@ -1,10 +1,10 @@
-#TimesTable Tutoring
+# TimesTable Tutoring
 
 TimesTable Tutoring is a website designed for parents in the south west of England, who want to get their child extra maths tuition up to a GCSE standard. It is useful to the children who are struggling to reach their aspired level of ability and aims to help them reach this potential and in most cases achieve the highest possible grade.
 
-##Features
+## Features
 
-###Existing Features
+### Existing Features
 
     - Navigation Bar
       
@@ -49,11 +49,11 @@ TimesTable Tutoring is a website designed for parents in the south west of Engla
 
 ![image of header and navigation bar](/assets/images/contact-ss.png)
 
-###Features Left to Implement
+### Features Left to Implement
 
     - A feature to implement in the future would be client reviews. This would allow new user's to see how previous consumers found the service offered by the company.
 
-##Testing
+## Testing
 
     - All links in the navigation bar work and take the user to the intended area of the page. Furthermore, the sign up button in the how it works section also takes the user to the sign up form.
     - The responsiveness of the site has been tested and it works at multiple screen widths.
@@ -61,7 +61,26 @@ TimesTable Tutoring is a website designed for parents in the south west of Engla
     - All content is easily readable.
     - At the start of the project, no styling effects were occuring. This bug was remedied by fixing a spelling mistake in the css file path. 
 
-###Validator Testing
+### Validator Testing
 
     - HTML
-      - 
+      - No errors returned when using the official W3C Validator
+
+    - CSS
+      - No errors returned when using the official W3C Validator  
+
+    - Accessibility
+      - I ran my code through lighthouse using the dev tools to confirm the website's accessibility.
+
+![Lighthouse genereated scores for TimesTable Tutoring](/assets/images/lighthouse-ss.png)
+
+## Deployment
+
+    - My website was deployed to GitHub pages.
+        - This was done by entering the settings on the relevent GitHub repository.
+        - The pages tab was then clicked on the side menu.
+        - The main branch was then selected and refreshed to provide a link.
+    
+The live link to the website can be found at - 
+
+## Credits 
