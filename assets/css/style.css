@@ -258,7 +258,7 @@ form h2 {
 
 /*for screens up to 1200px wide*/
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width: 1200px) {
     #logo {
         letter-spacing: 2px;
         margin: 20px 10px;
@@ -290,5 +290,7 @@ form h2 {
         margin-left: 17%;
     }
 
-    
+    #how-it-works p {
+        font-size: 100%;
+    }
 }
