@@ -84,3 +84,12 @@ TimesTable Tutoring is a website designed for parents in the south west of Engla
 The live link to the website can be found at - 
 
 ## Credits 
+
+### Content
+
+    - The icons used throughout the project were taken from [Font Awesome](https://fontawesome.com/icons)
+    - The fonts used throughout the project were taken from [Google Fonts](https://fonts.google.com/)
+
+### Media
+
+    - The images used throughout the project were taken from [Pexels](https://www.pexels.com/)
