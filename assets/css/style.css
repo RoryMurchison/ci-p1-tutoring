@@ -294,3 +294,23 @@ form h2 {
         font-size: 100%;
     }
 }
+
+/*for screens up to 850px wide*/
+
+@media screen and (max-width: 850px) {
+    #logo {
+        font-size: 125%;
+    }
+
+    #why-us {
+        height: 1300px;
+    }
+
+    form {
+        font-size: 150%;
+    }
+
+    form h2 {
+        font-size: 175%;
+    }
+}
