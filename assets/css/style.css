@@ -134,7 +134,7 @@ h1, h2 {
 #why-img {
     background: url('../images/tutor-helping-boy.png') no-repeat center center;
     height: 100%;
-    border-radius: 5%;
+    border-radius: 25%;
 }
 
 /*how-it-works*/
@@ -287,7 +287,8 @@ form h2 {
     #center-why {
         clear: both;
         padding: 0;
-        margin-left: 17%;
+        margin-left: 0px;
+        
     }
 
     #how-it-works p {
@@ -334,4 +335,9 @@ form h2 {
     #cover-text {
         right: 0px;
     }
+
+    #why-us {
+        height: 1450px;
+    }
+
 }
