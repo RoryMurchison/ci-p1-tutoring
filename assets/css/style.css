@@ -291,6 +291,10 @@ form h2 {
         
     }
 
+    #why-img-container {
+        padding: 20px 0;
+    }
+
     #how-it-works p {
         font-size: 100%;
     }
@@ -340,4 +344,24 @@ form h2 {
         height: 1450px;
     }
 
+    #how-it-works-background div {
+        padding: 15px 5px;
+
+    }
+
+    #how-it-works-background h2 {
+        font-size: 115%;
+    }
+
+    #how-it-works-background p {
+        font-size: 90%;
+    }
+
+    form {
+        font-size: 135%;
+    }
+
+    form h2 {
+        font-size: 160%;
+    }
 }
